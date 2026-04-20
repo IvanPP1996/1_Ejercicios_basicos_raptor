@@ -1,3 +1,4 @@
+# **Ejercicios basicos**
 ## 1. Suma de dos números
 Pide dos números al usuario y muestra la suma.
 ## 2. Número mayor
@@ -22,3 +23,7 @@ Pide un número y determina si es:
 ## 10. Factorial de un número
 Pide un número y calcula su factorial:
 n!=n⋅(n−1)⋅(n−2)⋯1
+<br><br>
+<hr style="height:2px; background-color:#fff;">
+
+# **Ejercicios intermedios**
