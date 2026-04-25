@@ -46,7 +46,7 @@ Salida: 5, 4, 3, 2, 1
 Pide 8 números y luego pide otro número a buscar.
 Indica si el número está en el arreglo o no.
 ## 17. Ordenar un arreglo (básico)
-ide 5 números y ordénalos de menor a mayor (puedes usar método burbuja).
+Pide 5 números y ordénalos de menor a mayor (puedes usar método burbuja).
 ## 18. Eliminar duplicados (lógica)
 Pide 10 números y muestra solo los que no están repetidos.<br>
 (Este ya es más retador, implica comparar elementos entre sí)
